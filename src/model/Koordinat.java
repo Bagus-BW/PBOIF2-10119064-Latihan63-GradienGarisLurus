@@ -8,6 +8,10 @@ package model;
 /**
  *
  * @author Bagus_24
+ * NAMA         : Bagus Budi Wibowo
+ * KELAS        : PBOIF2 
+ * NIM          : 10119064 
+ * Deskripsi Program : Program ini merupakan program untuk menghitung gradien garis lurus
  */
 public class Koordinat implements GarisLurus{
     private int x1, y1, x2, y2;
